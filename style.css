@@ -1,0 +1,20 @@
+body
+{
+    background: linear-gradient(#e66465, #9198e5);
+}
+
+#object, #result_object_name, #result_object_accuracy
+{
+    color: crimson;
+}
+
+p
+{
+    color:#ffc4cf;
+}
+
+.name_of_objects
+{
+    color: yellow;
+    width: auto;
+}
